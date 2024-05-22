@@ -1,3 +1,5 @@
+# INTRODUCTION
+
 The Dow Jones Industrial Average (DJIA) is a stock market index that tracks the performance of 30 large, publicly traded companies listed on stock exchanges in the United States. It is considered a key indicator of the overall health of the U.S. economy and is closely watched by investors around the world.
 Accurately forecasting the DJIA can be a valuable tool for financial planning and investment decisions. However, due to the complex and dynamic nature of financial markets, predicting future trends can be challenging. This project explores the use of various time series forecasting models to predict the movement of the DJIA.
 While the Reserve Bank of India (RBI) website does not directly provide real-time stock market data, it can be a valuable resource for understanding the economic context surrounding the DJIA. The RBI's annual reports often discuss the performance of major international market indices, including the DJIA. This information can be used to identify potential factors influencing the DJIA's movement, which can then be incorporated into the forecasting models.
